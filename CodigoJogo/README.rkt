@@ -5,7 +5,7 @@
 3.Partida para 1 jogador.
 
 ;OBJETIVO
-O objetivo do jogo consiste em deslocar todos os discos da torre onde se encontram para uma torre diferente.
+O objetivo do jogo consiste em deslocar todos os discos da torre mais a esquerda para uma a torre mais a direita, podendo utilizar a do meio.
 
 ;JOGABILIDADE
 De acordo com as regras do jogo, para que o maior disco possa ser colocado
@@ -14,4 +14,7 @@ na torre do meio tendo o maior disco sozinho no eixo à esquerda. A tarefa
 de passar os discos menores da torre da esquerda para a torre do meio é
 equivalente (em termos de números de movimentos necessários) à de passar os
 discos da torre do meio para a torre da direita.
+Existem 3 torres, uma mais a esquerda,a do meio e a mais a direita. Pressionando um número (1 2 3) do teclado, remove o disco do topo da torre selecionada (caso tenha discos presentes) 
+para o "ar", que no código chamamos de limbo, e depois clicando mais uma vez um dos números (1 2 3), você seleciona a torre destino para o disco presente no limbo ir,
+e como dissemos nas regras, não será aceito que um disco maior seja retirado de uma torre e adicionado em cima de um menor.
 
