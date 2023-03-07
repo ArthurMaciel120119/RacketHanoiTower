@@ -2,14 +2,25 @@
 Torre de Hanoi na linguagem Racket.
 
 <html>
-<title>Alunos:</title><br /> 
-Lucas Beluomini 120111<br />  
-Arthur Martins Maciel 120119<br /> 
+  <head>
+    <title>Alunos:</title><br /> 
+   </head>
+   <body>
+      Lucas Beluomini 120111<br />  
+      Arthur Martins Maciel 120119<br /> 
+   </body>
+    <head>
+      <title>Curso:</title><br /> 
+    </head>
+    <body>
+      Ciência da Computação<br /> 
+    </body>
 
-<title>Curso:</title> <br /> 
-Ciência da Computação<br /> 
-
-<title>Disciplina:</title><br /> 
-Paradigmas de Programação Lógica e Funcional<br /> 
-1 Trabalho Prático<br /> 
+    <head>
+      <title>Disciplina:</title><br /> 
+    </head>
+    <body>
+      Paradigma Funcional Lógica e Funcional<br />  
+      1 Trabalho Pratico<br /> 
+    </body>
 </html>
