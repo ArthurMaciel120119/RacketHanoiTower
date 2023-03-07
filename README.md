@@ -1,13 +1,13 @@
 # RacketHanoiTower
 Torre de Hanoi na linguagem Racket.
 
-Alunos:
-Lucas Beluomini 120111
-Arthur Martins Maciel 120119
+<title>Alunos:<br /> </title>
+Lucas Beluomini 120111<br />  
+Arthur Martins Maciel 120119<br /> 
 
-Curso:
-Ciência da Computação
+<title>Curso:<br /></title> 
+Ciência da Computação<br /> 
 
-Disciplina:
-Paradigmas de Programação Lógica e Funcional
-1 Trabalho Prático
+<title>Disciplina:<br /></title>
+Paradigmas de Programação Lógica e Funcional<br /> 
+1 Trabalho Prático<br /> 
