@@ -1,13 +1,13 @@
 # RacketHanoiTower
-Its the Hanoi Tower game on Racket language.
+Torre de Hanoi na linguagem Racket.
 
-#Alunos:
+Alunos:
 Lucas Beluomini 120111
 Arthur Martins Maciel 120119
 
-#Curso:
+Curso:
 Ciência da Computação
 
-#Disciplina:
+Disciplina:
 Paradigmas de Programação Lógica e Funcional
 1 Trabalho Prático
